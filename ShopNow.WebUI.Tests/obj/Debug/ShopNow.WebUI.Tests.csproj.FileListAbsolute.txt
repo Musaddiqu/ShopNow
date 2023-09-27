@@ -36,3 +36,6 @@ C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\obj\Debug\ShopNow.WebUI
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\obj\Debug\ShopNow.WebUI.Tests.csproj.CopyComplete
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\obj\Debug\ShopNow.WebUI.Tests.dll
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\obj\Debug\ShopNow.WebUI.Tests.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll

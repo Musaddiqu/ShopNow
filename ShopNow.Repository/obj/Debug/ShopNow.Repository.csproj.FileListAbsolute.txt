@@ -10,3 +10,5 @@ C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Reposi
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.csproj.CopyComplete
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.dll
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Model.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Model.pdb
