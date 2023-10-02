@@ -1,17 +1,17 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Data.Entity;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Data.Entity;
+
+
 
 namespace ShopNow.Repository.EF
 {
-    internal class EcommerceContext :DbContext
+    public class EcommerceContext :DbContext
     {
         public EcommerceContext() :base("EcommConnSt") 
         {
 
         }
+
+        public DbSet<Model.Product> Products { get; set; }
+        public DbSet<Model.Category> Categories { get; set; }
     }
 }

@@ -39,3 +39,14 @@ C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\obj\Debug\ShopNow.WebUI
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\ShopNow.Repository.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\ShopNow.Model.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\ShopNow.Repository.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\ShopNow.Repository.dll.config
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\ShopNow.Model.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Autofac.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Autofac.Integration.Mvc.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Autofac.xml
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI.Tests\bin\Debug\Autofac.Integration.Mvc.xml

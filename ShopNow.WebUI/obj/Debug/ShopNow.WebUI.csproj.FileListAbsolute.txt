@@ -87,3 +87,12 @@ C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\roslyn\vbc.exe.config
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\roslyn\vbc.rsp
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\roslyn\VBCSCompiler.exe
 C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\ShopNow.Model.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\ShopNow.Repository.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\ShopNow.Model.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\ShopNow.Repository.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\ShopNow.Repository.dll.config
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\Autofac.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\Autofac.Integration.Mvc.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\Autofac.xml
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.WebUI\bin\Autofac.Integration.Mvc.xml
