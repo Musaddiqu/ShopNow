@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Repository.dll.config
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Repository.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Repository.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\EntityFramework.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\EntityFramework.xml
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.csproj.CopyComplete
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Model.dll
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\bin\Debug\ShopNow.Model.pdb
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.Migrations.Initialcreate.resources
+C:\Users\Admin\source\repos\ShopNow2\ShopNow.Repository\obj\Debug\ShopNow.Repository.csproj.GenerateResource.cache
