@@ -18,7 +18,6 @@ namespace ShopNow.WebUI
     {
         protected void Application_Start()
         {
-
             AutofacConfig.Register();
             AreaRegistration.RegisterAllAreas();
             GlobalConfiguration.Configure(WebApiConfig.Register);

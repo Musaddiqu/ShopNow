@@ -1,10 +1,5 @@
 ﻿using ShopNow.Model;
-using ShopNow.Repository.Common.Repository.Impl;
 using ShopNow.Repository.Common.Repository.Inerface;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 
 namespace ShopNow.WebUI.Controllers
@@ -13,7 +8,8 @@ namespace ShopNow.WebUI.Controllers
     {
         private IProductRepository productRepository;
         private ICategoryRepositery categoryRepositery;
-        public ProductController(IProductRepository productRepository, ICategoryRepositery categoryRepositery)
+        public ProductController(IProductRepository productRepository,
+                                ICategoryRepositery categoryRepositery)
         {
             this.productRepository = productRepository;
             this.categoryRepositery = categoryRepositery;
