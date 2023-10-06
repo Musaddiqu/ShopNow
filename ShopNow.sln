@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopNow.WebUI", "ShopNow.We
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopNow.WebUI.Tests", "ShopNow.WebUI.Tests\ShopNow.WebUI.Tests.csproj", "{48A97A5D-5E2E-4E8D-B43E-C9D8FB2F11A4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShopNow.StoreFront.WebUI", "ShopNow.StoreFront.WebUI\ShopNow.StoreFront.WebUI.csproj", "{12719B7E-51E4-49CF-8494-F61A842AE545}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{48A97A5D-5E2E-4E8D-B43E-C9D8FB2F11A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{48A97A5D-5E2E-4E8D-B43E-C9D8FB2F11A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{48A97A5D-5E2E-4E8D-B43E-C9D8FB2F11A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12719B7E-51E4-49CF-8494-F61A842AE545}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12719B7E-51E4-49CF-8494-F61A842AE545}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12719B7E-51E4-49CF-8494-F61A842AE545}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12719B7E-51E4-49CF-8494-F61A842AE545}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
